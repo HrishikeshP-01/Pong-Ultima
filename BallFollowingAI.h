@@ -15,6 +15,7 @@ public:
 private:
 	void ProcessInput();
 	void UpdateGame();
+	void FollowingAI(float& deltaTime);
 	void GenerateOutput();
 	SDL_Window* mWindow;
 	SDL_Renderer* mRenderer;
@@ -22,7 +23,7 @@ private:
 	Uint8 mTicksCount;
 
 	int hPaddleDir;
-	int aPadddleDir;
+	int aPaddleDir;
 	FVector2 hPaddlePos;
 	FVector2 aPaddlePos;
 	FVector2 ballPos;
