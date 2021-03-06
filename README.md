@@ -13,7 +13,7 @@ Here I've tried my hand at making single player, multiplayer as well as AI agent
 The game was coded in C++ and uses the Simple DirectMedia Layer(SDL) library.
 ## Result
 <p align="center">
-![image](/Result/1.png) <br />
-![image](/Result/2.png)
+![](/result/1.png) <br />
+![](/result/2.png)
 </p>
  
