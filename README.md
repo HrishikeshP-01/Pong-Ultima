@@ -1,5 +1,6 @@
 # Pong Ultima
-A retro styled AI and multiplayer pong game.
+A retro styled AI and multiplayer pong game.<br />
+**Winner of Apollo Hacks 2021**
 ## Description
 Pong is considered as the debut to a programmer's journey into game development.
  One of the first video games that was developed, the fun factor of the game hasn't dimnished
